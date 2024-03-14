@@ -1,0 +1,2 @@
+DROP SCHEMA rsvp CASCADE;
+DROP EXTENSION btree_gist;
